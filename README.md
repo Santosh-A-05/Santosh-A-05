@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- ─── ANIMATED TYPING HEADER ─── -->
 <a href="https://github.com/Santosh-A-05">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=%24+whoami;%24+echo+%22Hi%2C+I'm+Santosh+Akhil%22;%24+./run+site_reliability_engineer.sh;%24+kubectl+apply+-f+cool_stuff.yaml" alt="Typing SVG" />
 </a>
@@ -8,6 +7,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Santosh-A-05&label=Profile%20views&color=00ff9c&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Santosh-A-05?label=Followers&style=flat-square&color=00ff9c&labelColor=0d1117" alt="followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-0d1117?style=flat-square&color=00ff9c&labelColor=0d1117" alt="open to work" />
 </p>
 
 </div>
@@ -23,6 +23,19 @@
 > Toolkit:    AWS · Azure · Kubernetes · Terraform · Python · Go
 > Based in:   Frisco, TX 🇺🇸
 > Certs:      AWS Solutions Architect · CCNA
+```
+
+---
+
+## 🎯 &nbsp; Currently
+
+```yaml
+focus:        deepening SRE craft — observability, chaos engineering, reliability
+learning:     advanced Kubernetes operators, eBPF, OpenTelemetry
+shipping:     side projects (Shorty, Conversational Chatbot)
+exploring:    Rust for systems work, platform engineering patterns
+listening:    podcasts on distributed systems & post-mortems
+open_to:      SRE · DevOps · Platform · Cloud Engineering roles
 ```
 
 ---
@@ -93,6 +106,26 @@
 
 ---
 
+## 📈 &nbsp; Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santosh-A-05&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santosh-A-05&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santosh-A-05&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santosh-A-05&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santosh-A-05&theme=tokyonight&utcOffset=-6" />
+
+</div>
+
+---
+
 ## 🚀 &nbsp; Featured Projects
 
 <div align="center">
@@ -109,7 +142,7 @@
 <br/>
 
 #### 🌐 &nbsp; [Portfolio](https://github.com/Santosh-A-05/portfolio)
-> Personal portfolio website built with HTML/CSS — landing page for projects, experience, and contact.
+> Personal portfolio website built with vanilla HTML/CSS/JS — landing page for projects, experience, and contact.
 
 #### 🗄️ &nbsp; [Database](https://github.com/Santosh-A-05/database)
 > T-SQL project exploring relational design, queries, and stored procedures.
@@ -119,7 +152,7 @@
 > &nbsp;&nbsp; `Python` · `Flask` · `HTML/CSS` · `SQL`
 
 #### 🤖 &nbsp; Conversational Chatbot &nbsp;<sub>*(coming soon to GitHub)*</sub>
-> Document Q&A chatbot with PyPDF2 parsing, LangChain RAG workflows over FAISS embeddings, Gemini Pro inference, Streamlit frontend deployed on HuggingFace Spaces.
+> Document Q&A chatbot with PyPDF2 parsing, LangChain RAG workflows over FAISS embeddings, Gemini Pro inference, Streamlit frontend on HuggingFace Spaces.
 > &nbsp;&nbsp; `Python` · `LangChain` · `FAISS` · `Gemini Pro` · `Streamlit` · `HuggingFace`
 
 ---
@@ -131,13 +164,19 @@
 
 ---
 
+## 💭 &nbsp; Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</div>
+
+---
+
 ## 🐍 &nbsp; Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Santosh-A-05/Santosh-A-05/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Santosh-A-05/Santosh-A-05/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
-
-> **To enable:** add the [Platane/snk GitHub Action](https://github.com/Platane/snk) to your profile repo.
 
 ---
 
